@@ -1,5 +1,5 @@
 amount = eval(input("Enter amount to deposit: ")) 
-print("Here is a breakthrough using PH denomination:") 
+print("Here is a breakdown, using PH denomination:") 
 #1000
 rk = amount / 1000 // 1 * 1000
 k = rk / 1000
