@@ -5,7 +5,7 @@ Repository of Computer Program developed in Python for our subject ITCS102 - Fir
 First code - Hello World
 
 [activity2.py](https://github.com/clarkjemsonfelices/ITCS102-FUNDAMENTALS-PROGRAMMING-PYTHON/blob/main/activity2.py)
-Input string
+Input string - name
 
 [activity3.py](https://github.com/clarkjemsonfelices/ITCS102-FUNDAMENTALS-PROGRAMMING-PYTHON/blob/main/activity3.py)
 Escape sequence - \n,\t
