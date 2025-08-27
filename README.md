@@ -38,7 +38,7 @@ Input name - Diamond
 Breaking down numbers
 
 [code_challenge3.py](https://github.com/clarkjemsonfelices/ITCS102-FUNDAMENTALS-PROGRAMMING-PYTHON/blob/main/code_challenge3.py)
-Username,password - code
+Username, password
 
 [code_challenge4.py](https://github.com/clarkjemsonfelices/ITCS102-FUNDAMENTALS-PROGRAMMING-PYTHON/blob/main/code_challenge4.py)
 Identifying ODD or EVEN numbers
