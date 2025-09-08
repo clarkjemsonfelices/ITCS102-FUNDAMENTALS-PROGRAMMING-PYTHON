@@ -31,6 +31,9 @@ Logical operators - true/false
 [activity10.py](https://github.com/clarkjemsonfelices/ITCS102-FUNDAMENTALS-PROGRAMMING-PYTHON/blob/main/activity10.py)
 Conditional statement - student discount
 
+[activity11.py](https://github.com/clarkjemsonfelices/ITCS102-FUNDAMENTALS-PROGRAMMING-PYTHON/blob/main/activity11.py)
+Selection statement - Temperature
+
 [code_challenge1.py](https://github.com/clarkjemsonfelices/ITCS102-FUNDAMENTALS-PROGRAMMING-PYTHON/blob/main/code_challenge1.py)
 Input name - Diamond
 
