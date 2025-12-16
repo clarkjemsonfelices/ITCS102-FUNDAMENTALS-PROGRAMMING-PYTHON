@@ -136,5 +136,3 @@ Anime List - List
 
 [code_challenge16.py](https://github.com/clarkjemsonfelices/ITCS102-FUNDAMENTALS-PROGRAMMING-PYTHON/blob/main/code_challenge16.py)
 Student Information System - Dictionary
-[code_challenge10.py](https://github.com/clarkjemsonfelices/ITCS102-FUNDAMENTALS-PROGRAMMING-PYTHON/blob/main/code_challenge10.py)
-
