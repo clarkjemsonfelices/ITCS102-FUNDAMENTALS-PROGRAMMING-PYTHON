@@ -86,32 +86,51 @@ Dictionary - Adding Datas
 Snake Game
 
 [code_challenge1.py](https://github.com/clarkjemsonfelices/ITCS102-FUNDAMENTALS-PROGRAMMING-PYTHON/blob/main/code_challenge1.py)
-Inputing Name Inside the Diamond
+Inputing Name Inside the Diamond - Scape Sequence
 
 [code_challenge2.py](https://github.com/clarkjemsonfelices/ITCS102-FUNDAMENTALS-PROGRAMMING-PYTHON/blob/main/code_challenge2.py)
-Breaking Down Numbers
+Breaking Down Numbers - Arithmetic Operators
 
 [code_challenge3.py](https://github.com/clarkjemsonfelices/ITCS102-FUNDAMENTALS-PROGRAMMING-PYTHON/blob/main/code_challenge3.py)
 Account - Username, Password (getpass)
 
 [code_challenge4.py](https://github.com/clarkjemsonfelices/ITCS102-FUNDAMENTALS-PROGRAMMING-PYTHON/blob/main/code_challenge4.py)
-
+ODD or EVEN Numbers - Selection Statement
 
 [code_challenge5.py](https://github.com/clarkjemsonfelices/ITCS102-FUNDAMENTALS-PROGRAMMING-PYTHON/blob/main/code_challenge5.py)
-
+Manga Recommender - Selection Statement
 
 [code_challenge6.py](https://github.com/clarkjemsonfelices/ITCS102-FUNDAMENTALS-PROGRAMMING-PYTHON/blob/main/code_challenge6.py)
-
+Factorial Program - For Loop
 
 [code_challenge7.py](https://github.com/clarkjemsonfelices/ITCS102-FUNDAMENTALS-PROGRAMMING-PYTHON/blob/main/code_challenge7.py)
-
+ODD Number Summation - For Loop and Selection Statement
 
 [code_challenge8.py](https://github.com/clarkjemsonfelices/ITCS102-FUNDAMENTALS-PROGRAMMING-PYTHON/blob/main/code_challenge8.py)
-
+Multiplication Table Maker - For Loop
 
 [code_challenge9.py](https://github.com/clarkjemsonfelices/ITCS102-FUNDAMENTALS-PROGRAMMING-PYTHON/blob/main/code_challenge9.py)
-
+Timer Countdown - For Loop
 
 [code_challenge10.py](https://github.com/clarkjemsonfelices/ITCS102-FUNDAMENTALS-PROGRAMMING-PYTHON/blob/main/code_challenge10.py)
-[code_challenge4.py](https://github.com/clarkjemsonfelices/ITCS102-FUNDAMENTALS-PROGRAMMING-PYTHON/blob/main/code_challenge4.py)
-Identifying ODD or EVEN numbers
+Triangle - For Loop
+
+[code_challenge11.py](https://github.com/clarkjemsonfelices/ITCS102-FUNDAMENTALS-PROGRAMMING-PYTHON/blob/main/code_challenge11.py)
+Diamond - For Loop
+
+[code_challenge12.py](https://github.com/clarkjemsonfelices/ITCS102-FUNDAMENTALS-PROGRAMMING-PYTHON/blob/main/code_challenge12.py)
+Numbers in Pyramid Shape - For Loop
+
+[code_challenge13.py](https://github.com/clarkjemsonfelices/ITCS102-FUNDAMENTALS-PROGRAMMING-PYTHON/blob/main/code_challenge13.py)
+Christmas Tree - For Loop
+
+[code_challenge14.py](https://github.com/clarkjemsonfelices/ITCS102-FUNDAMENTALS-PROGRAMMING-PYTHON/blob/main/code_challenge14.py)
+Odd Numbers Compiler - While Loop
+
+[code_challenge15.py](https://github.com/clarkjemsonfelices/ITCS102-FUNDAMENTALS-PROGRAMMING-PYTHON/blob/main/code_challenge15.py)
+Anime List - List
+
+[code_challenge16.py](https://github.com/clarkjemsonfelices/ITCS102-FUNDAMENTALS-PROGRAMMING-PYTHON/blob/main/code_challenge16.py)
+Student Information System - Dictionary
+[code_challenge10.py](https://github.com/clarkjemsonfelices/ITCS102-FUNDAMENTALS-PROGRAMMING-PYTHON/blob/main/code_challenge10.py)
+
