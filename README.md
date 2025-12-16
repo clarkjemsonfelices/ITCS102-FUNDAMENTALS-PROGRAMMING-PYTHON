@@ -1,6 +1,8 @@
 # ITCS102-FUNDAMENTALS-PROGRAMMING-PYTHON
 Repository of Computer Program developed in Python for our subject ITCS102 - First Year First Semester
 
+# ACTIVITES
+
 [activity1.py](https://github.com/clarkjemsonfelices/ITCS102-FUNDAMENTALS-PROGRAMMING-PYTHON/blob/main/activity1.py )
 Printing Output - "Hello World" (First Code)
 
@@ -84,6 +86,8 @@ Dictionary - Adding Datas
 
 [activity28.py](https://github.com/clarkjemsonfelices/ITCS102-FUNDAMENTALS-PROGRAMMING-PYTHON/blob/main/activity28.py)
 Snake Game
+
+# CODE CHALLENGES
 
 [code_challenge1.py](https://github.com/clarkjemsonfelices/ITCS102-FUNDAMENTALS-PROGRAMMING-PYTHON/blob/main/code_challenge1.py)
 Inputing Name Inside the Diamond - Scape Sequence
